@@ -1,6 +1,6 @@
 body {
     /*applying color hexadecimal number, fonts*/
-    color: #39a6b2
+    color: #39a6b2;
     font-family: Helvetica, sans-serif;
     
 }
@@ -43,4 +43,34 @@ header nav ul li a{
 *{
     margin: 0;
     padding: 0;
+}
+
+footer{
+    padding: 40px 35px;
+    background: #fce138;
+    width: 100%;
+}
+
+footer div{
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+footer h2{
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer a{
+    color: #024e76;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
 }
